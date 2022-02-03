@@ -191,4 +191,10 @@ textarea{
 .img__picture6 img{
     margin-right: 5px;
 }
+footer{
+    background-color: darkslategray;
+    font: 45px 'Roboto', sans-serif;
+    color: white;
+    letter-spacing: 1.35px;
+}
 
